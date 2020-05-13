@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "765853859571",
+    "firebase_url": "https://arattai-637c6.firebaseio.com",
+    "project_id": "arattai-637c6",
+    "storage_bucket": "arattai-637c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765853859571:android:0bd158d1df7bced2db4186",
+        "android_client_info": {
+          "package_name": "com.vidhaitechnologies.arattai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765853859571-h510lhovb385j5hk69fpmsu98us4ds0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDV5A2mm8htJSSBZBoMBKjncKNSLuT2wA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765853859571-h510lhovb385j5hk69fpmsu98us4ds0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
