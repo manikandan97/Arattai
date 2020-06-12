@@ -75,6 +75,7 @@ public class FriendsFragment extends Fragment implements SwipeRefreshLayout.OnRe
             }
         };
         if (dataListFriend == null) {
+            dataListFriend = new ListFriend();
             if (dataListFriend.getListFriend().size() > 0) {
                 listFriendID = new ArrayList<>();
                 for (Friend friend : dataListFriend.getListFriend()) {

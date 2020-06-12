@@ -299,7 +299,7 @@ public class ListFriendsAdapter extends RecyclerView.Adapter<RecyclerView.ViewHo
                                                 .setMessage("Friend deleting successfully")
                                                 .show();
 
-                                        Intent intentDeleted = new Intent(FriendsFragment.ACTION_DELETE_FRIEND);
+                                        Intent intentDeleted = new Intent("Delete");
                                         intentDeleted.putExtra("idFriend", idFriend);
                                         context.sendBroadcast(intentDeleted);
                                     }
